@@ -1,1 +1,1 @@
-Static page - trial
+Mandelbrot Set Fractal (using HTML tools canvas, workers)
